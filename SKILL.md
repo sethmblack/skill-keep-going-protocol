@@ -1,10 +1,9 @@
 ---
 name: keep-going-protocol
-description: Provide the courage and resolve to continue when facing obstacles, fear,
-  or temptation to turn back.
+description: Provide the courage and resolve to continue when facing obstacles, fear, or temptation to turn back.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - keep-going-protocol
